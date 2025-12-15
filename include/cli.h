@@ -4,7 +4,7 @@
 #include <stddef.h>
 
 #define CLI_DEFAULT_HOST "127.0.0.1"
-#define CLI_DEFAULT_PORT 6379
+#define CLI_DEFAULT_PORT 6380
 #define CLI_BUFFER_SIZE 4096
 
 // --- network.c ---
